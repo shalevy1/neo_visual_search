@@ -19,7 +19,7 @@ GEM
       rubyzip (>= 1.0.0)
     oj (2.12.1)
     os (0.9.6)
-    rack (1.6.0)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
